@@ -1,0 +1,43 @@
+_repo: The-Fourth-Book-of-Virgil-s-Aeneid-and-the-Ninth-Book-of-Voltaire-s-Henriad_20144
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+  - agent_name: Virgil
+    aliases:
+    - Vergil
+    - Vergilius Maro, Publius
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: http://en.wikipedia.org/wiki/Virgil
+description: ''
+gutenberg_issued: '2006-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virgil. Aeneis'
+- !lcsh 'Voltaire, 1694-1778. Henriade'
+- !lcc 'PQ'
+- !lcc 'PA'
+title: The Fourth Book of Virgil's Aeneid and the Ninth Book of Voltaire's Henriad
+url: http://www.gutenberg.org/ebooks/20144
