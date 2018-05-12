@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20144#The-Fourth-Book-of-Virgil-s-Aeneid-and-the-Ninth-Book-of-Voltaire-s-Henriad
 gutenberg_issued: '2006-12-20'
 gutenberg_type: Text
 identifiers:
